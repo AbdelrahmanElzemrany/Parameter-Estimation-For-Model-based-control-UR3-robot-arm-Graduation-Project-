@@ -16,7 +16,7 @@ The repository is structured sequentially to take a robot from raw DH parameters
 
 ### 3. Dynamics & Identification
 * **`BaseParameterEstimation_step4.m`**: Runs the parameter identification algorithms matching the raw PVA data against the symbolic regressor model.
-* **`ReformulatingTheEstimatedMatrices_step5.m`**: Reconstructs the numeric dynamic matrices using the newly identified base parameters.
+* **`ReformulatingTheEstimatedMatrices_step5.m`**: Reconstructs the symbolic dynamic matrices using the newly identified base parameters.
 * **`GetTheEstimatedINVDynamics_step6.m`**: Formulates the estimated inverse dynamics used to feed the controller feedforward loops.
 
 ### 4. Verification & Control

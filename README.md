@@ -1,7 +1,4 @@
-<div align="center">
-  <video src="https://githubusercontent.com" width="100%" autoplay loop muted controls></video>
-</div>
-
+Type this simple sentence right there instead:[Click here to download and view the Simscape simulation video.](A%20video.mp4)
 
 # Estimated Model-Based Gravity Controller for UR3 Arm
 

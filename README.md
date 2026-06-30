@@ -1,4 +1,4 @@
-Type this simple sentence right there instead:[Click here to download and view the Simscape simulation video.](A%20video.mp4)
+[Click here to download and view the Simscape simulation video.](A%20video.mp4)
 
 # Estimated Model-Based Gravity Controller for UR3 Arm
 

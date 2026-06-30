@@ -1,4 +1,4 @@
-[Click here to download and view the Simscape simulation video.](A%20video.mp4) and click view raw
+[Click here and press view raw to download and view the Simscape simulation video.](A%20video.mp4) 
 
 # Estimated Model-Based Gravity Controller for UR3 Arm
 

@@ -5,6 +5,18 @@
 
 
 An end-to-end parameter estimation framework and model-based gravity compensation controller for the 6-DOF UR3 robotic manipulator. Built using Simulink, Simscape Multibody, and MATLAB.
+## 📝 Project Overview
+
+Conventional model-free controllers (like standalone PD loops) suffer from severe tracking degradation under dynamic loads. Unmodeled gravitational forces pull robotic link masses downward, causing permanent steady-state position sag. Reactive controllers require tracking errors to generate corrective torques, making high-precision paths impossible. 
+
+Model-based control strategy (like Computed Torque Control) resolves this problem by canceling out the robot's physical weight and inertia equations on the fly. However, its tracking accuracy depends strictly on the baseline precision of the internal plant model. This project establishes an end-to-end parameter estimation pipeline to solve this modeling requirement through non-invasive system identification.
+
+### Why Parameter Estimation is Essential in Robotics
+* **Unavailability of Direct Measurements**: Real link masses and inertia tensors cannot be verified without dismantling the mechanical robot.
+* **Inaccuracy of CAD Baselines**: Theoretical factory data ignores structural variations caused by age, wear, or retrofitted modifications.
+* **Workspace Physical Realism**: Linear regression can return physically impossible variables like negative friction or non-positive-definite matrices.
+* **Enforcing Structural Consistency**: Constrained non-linear optimization ensures that the estimated parameters map strictly to real-world physics.
+
 
 ## 🛠️ Pipeline & File Architecture
 

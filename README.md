@@ -20,7 +20,7 @@ Model-based control strategy (like Computed Torque Control) resolves this proble
   
   <img width="1023" height="560" alt="image" src="https://github.com/user-attachments/assets/dd2ce280-8b6c-4701-a67a-dc2245986965" />
   
-  Figure 1 The inertial parameter excitation experiment by standard PD controller.
+ Figure 1 The inertial parameter excitation experiment by standard PD controller.
   
   ---------------------------------------------------------------
   

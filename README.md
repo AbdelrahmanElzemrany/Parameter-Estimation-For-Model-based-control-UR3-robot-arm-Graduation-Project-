@@ -16,42 +16,43 @@ Model-based control strategy (like Computed Torque Control) resolves this proble
 * **Inaccuracy of CAD Baselines**: Theoretical factory data ignores structural variations caused by age, wear, or retrofitted modifications.
 * **Workspace Physical Realism**: Linear regression can return physically impossible variables like negative friction or non-positive-definite matrices.
 * **Enforcing Structural Consistency**: Constrained non-linear optimization ensures that the estimated parameters map strictly to real-world physics.
-  
+  ---------------------------------------------------------------
   <img width="1023" height="560" alt="image" src="https://github.com/user-attachments/assets/dd2ce280-8b6c-4701-a67a-dc2245986965" />
   Figure 1 The inertial parameter excitation experiment by standard PD controller.
+  ---------------------------------------------------------------
  <img width="1646" height="672" alt="image" src="https://github.com/user-attachments/assets/6ff16ebc-8ced-45f8-9986-92182359505c" />
-
   Figure 2 The UR3 Simscape model For digital twining .
-  <img width="1180" height="550" alt="image" src="https://github.com/user-attachments/assets/dff34182-3e03-4cc3-8f43-013719417bbc" />
-
-  Figure 3 A link configuration with Viscous-Columb friction forces applied .
-  <img width="746" height="422" alt="UR3Excitation_step2" src="https://github.com/user-attachments/assets/30a4910a-c255-41be-b362-d4a4c86f52d1" />
+-----------------------------------------------------------------
   
+  <img width="1180" height="550" alt="image" src="https://github.com/user-attachments/assets/dff34182-3e03-4cc3-8f43-013719417bbc" />
+  Figure 3 A link configuration with Viscous-Columb friction forces applied .
+  ---------------------------------------------------------------
+  <img width="746" height="422" alt="UR3Excitation_step2" src="https://github.com/user-attachments/assets/30a4910a-c255-41be-b362-d4a4c86f52d1" />
   Figure 4 A visualzation of how we excite the inertial parameters of the UR3 robot arm.
+  ---------------------------------------------------------------
 
   <img width="1917" height="922" alt="image" src="https://github.com/user-attachments/assets/68ea9611-1a74-43c0-9e01-e9d76e3ce1a7" />
-
    Figure 5 The Parameter estimation validation results.
-
+-----------------------------------------------------------------
 
   <img width="1025" height="563" alt="image" src="https://github.com/user-attachments/assets/5f464711-4b4b-4b1c-b4de-283ce57d0c8e" />
-  
   Figure 6 Testing the estimated gravity matrix at zero joint position .
+-----------------------------------------------------------------
 
    <img width="1917" height="925" alt="image" src="https://github.com/user-attachments/assets/7260d6fc-3db2-4899-a9dd-a4e2f72c6df5" />
    Figure 7 The proactive applied torques from the estimated gravity matrix to cancel the gravity forces (see the shoulder joints (2 and 3) ).
-
+-----------------------------------------------------------------
 
 
   <img width="746" height="422" alt="UR3G_Matrix_testing_step7" src="https://github.com/user-attachments/assets/5732ad18-c48c-4a11-a77b-4fb4cfc96f9f" />
   Figure 8 A Visualization to show that the robot arm stand still at zero joint positon commands.
-
+-----------------------------------------------------------------
   <img width="1917" height="927" alt="image" src="https://github.com/user-attachments/assets/62b26d70-8496-4e95-bde9-818bcbabd181" />
   Figure 9 The reactive applied torques from PD controller.
-
+-----------------------------------------------------------------
   <img width="746" height="422" alt="PDatzero" src="https://github.com/user-attachments/assets/3828b2f1-47f0-4cd3-9538-4174feca8dee" />
   Figure 10 A Visualzation of the robot arm behavior with standard standalone PD controller 
-
+------------------------------------------------------------
 
 
 

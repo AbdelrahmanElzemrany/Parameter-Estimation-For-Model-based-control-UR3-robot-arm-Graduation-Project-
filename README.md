@@ -19,7 +19,8 @@ Model-based control strategy (like Computed Torque Control) resolves this proble
   
   <img width="1023" height="560" alt="image" src="https://github.com/user-attachments/assets/dd2ce280-8b6c-4701-a67a-dc2245986965" />
   Figure 1 The inertial parameter excitation experiment by standard PD controller.
-  <img width="1633" height="626" alt="image" src="https://github.com/user-attachments/assets/dcb628ad-228a-4f4a-a1fe-8bc1ea0d1e71" />
+ <img width="1646" height="672" alt="image" src="https://github.com/user-attachments/assets/6ff16ebc-8ced-45f8-9986-92182359505c" />
+
   Figure 2 The UR3 Simscape model For digital twining .
   <img width="1132" height="598" alt="image" src="https://github.com/user-attachments/assets/125ae9f2-f7d2-488e-a311-13724edd71e5" />
   Figure 3 A link configuration with Viscous-Columb friction forces applied .

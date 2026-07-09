@@ -22,9 +22,11 @@ Model-based control strategy (like Computed Torque Control) resolves this proble
  <img width="1646" height="672" alt="image" src="https://github.com/user-attachments/assets/6ff16ebc-8ced-45f8-9986-92182359505c" />
 
   Figure 2 The UR3 Simscape model For digital twining .
-  <img width="1132" height="598" alt="image" src="https://github.com/user-attachments/assets/125ae9f2-f7d2-488e-a311-13724edd71e5" />
+  <img width="1180" height="550" alt="image" src="https://github.com/user-attachments/assets/dff34182-3e03-4cc3-8f43-013719417bbc" />
+
   Figure 3 A link configuration with Viscous-Columb friction forces applied .
   <img width="746" height="422" alt="UR3Excitation_step2" src="https://github.com/user-attachments/assets/30a4910a-c255-41be-b362-d4a4c86f52d1" />
+  
   Figure 4 A visualzation of how we excite the inertial parameters of the UR3 robot arm
 
 

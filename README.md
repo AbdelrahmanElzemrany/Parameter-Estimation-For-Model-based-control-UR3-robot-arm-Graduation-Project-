@@ -36,7 +36,8 @@ Model-based control strategy (like Computed Torque Control) resolves this proble
 
   <img width="1025" height="563" alt="image" src="https://github.com/user-attachments/assets/5f464711-4b4b-4b1c-b4de-283ce57d0c8e" />
 
-  <img width="1917" height="923" alt="image" src="https://github.com/user-attachments/assets/525ea686-0d3f-435d-81ec-baf760e05ae9" 
+  <img width="1917" height="923" alt="image" src="https://github.com/user-attachments/assets/525ea686-0d3f-435d-81ec-baf760e05ae9"
+  
     <img width="1917" height="925" alt="image" src="https://github.com/user-attachments/assets/91379180-ae45-44de-8d8a-e151407661ec" />
 
 

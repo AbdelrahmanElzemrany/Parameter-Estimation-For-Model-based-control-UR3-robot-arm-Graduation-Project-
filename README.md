@@ -1,10 +1,10 @@
 [Click here and press view raw to download and view a 170 seconds simulation video explaining the whole process.](A%20video.mp4) 
 
-# Parameter-Estimation-For-Model-based-control-UR3-robot-arm
+# Parameter-Estimation-For-Accurate Model-based-control-Featuring-UR3-robot-arm
 
 
 
-An end-to-end parameter estimation framework and model-based gravity compensation controller for the 6-DOF UR3 robotic manipulator. Built using Simulink, Simscape Multibody, and MATLAB.
+An end-to-end parameter estimation framework to design model-based gravity compensation controller for the 6-DOF UR3 robotic manipulator. Built using Simulink, Simscape Multibody, and MATLAB.
 ## 📝 Project Overview
 
 Conventional model-free controllers (like standalone PD loops) suffer from severe tracking degradation under dynamic loads. Unmodeled gravitational forces pull robotic link masses downward, causing permanent steady-state position sag. Reactive controllers require tracking errors to generate corrective torques, making high-precision paths impossible. 

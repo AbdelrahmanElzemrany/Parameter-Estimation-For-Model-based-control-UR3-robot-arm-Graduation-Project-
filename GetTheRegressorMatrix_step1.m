@@ -1,5 +1,5 @@
 %This code is For the Regressor Model constuction you can choose If your model
-%robot have friction in it you can choose which type of friction you need
+%robot has friction in it you can choose which type of friction you need
 %or if you need to exclude it in the main model i have Viscous columb
 %friction in the robot
 %%The Code is Reverse Engineered By Abdelrahman Elzemrany From BIRDy

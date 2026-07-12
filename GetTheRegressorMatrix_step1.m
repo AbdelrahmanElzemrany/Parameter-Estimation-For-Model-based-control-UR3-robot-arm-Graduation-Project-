@@ -890,7 +890,7 @@ fprintf('Computing Identification Model using the Algorithm: %s\n', options.meth
 [Y_b, Y_d, Beta, Xhi_b, Xhi_d, qr_P, Kd] = baseParametersNumericalSimplification(robot, Y_r, Xhi_r, 1e3);
 end
 
-%% Compute the regressor in a block upper-triangular form as explained in [jung et al. 2018]:
+%% Compute the regressor in a block upper-triangular form 
 
 function [Y, Xhi] = blockTriangular(J_dhi_world, Jd_dhi_world, J_cmi_world, Jd_cmi_world, HT_cmi_world, robot)
 
@@ -977,7 +977,7 @@ matlabFunction(Y,'File',"Y_gg_handle", 'Optimize',false);
 
 end
 
-%% Numerical generation of Base Parameters using a QR decomposition of the regression matrix on multiple random epochs [Khalil 91]:
+%% Numerical generation of Base Parameters using a QR decomposition of the regression matrix on multiple random epochs 
 
 function [Y_b, Y_d, Beta, Xhi_b, Xhi_d, qr_P, Kd] = baseParametersNumericalSimplification(robot, Y, Xhi, samples)
 

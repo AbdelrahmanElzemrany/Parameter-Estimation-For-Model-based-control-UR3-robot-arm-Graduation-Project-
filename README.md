@@ -86,6 +86,10 @@ Model-based control strategy (like Computed Torque Control) resolves this proble
   
 ------------------------------------------------------------
 
+<img width="1385" height="640" alt="Screenshot 2026-07-15 225334" src="https://github.com/user-attachments/assets/8715f0eb-f7ae-4648-876e-166631bdd1f6" />
+
+  Figure 11 Feedforward Gravity Compensator Controller 
+
 
 
   

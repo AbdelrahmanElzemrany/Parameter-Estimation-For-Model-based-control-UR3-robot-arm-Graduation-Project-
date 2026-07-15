@@ -62,7 +62,8 @@ Model-based control strategy (like Computed Torque Control) resolves this proble
   
 -----------------------------------------------------------------
 
-   <img width="1917" height="925" alt="image" src="https://github.com/user-attachments/assets/7260d6fc-3db2-4899-a9dd-a4e2f72c6df5" />
+   <img width="1907" height="915" alt="Screenshot 2026-07-15 200639" src="https://github.com/user-attachments/assets/fe302097-b088-44b9-a7de-8188732ed01c" />
+
    
    Figure 7 The proactive applied torques from the estimated gravity matrix to cancel the gravity forces (see the shoulder joints (2 and 3) ).
    

@@ -34,7 +34,8 @@ Model-based control strategy (like Computed Torque Control) resolves this proble
   
 -----------------------------------------------------------------
   
-<img width="1102" height="628" alt="Screenshot 2026-07-15 192307" src="https://github.com/user-attachments/assets/d0205464-b3d4-40f0-8223-f3b265fbd649" />
+<img width="1907" height="917" alt="Screenshot 2026-07-15 192710" src="https://github.com/user-attachments/assets/98988876-b8d1-45a0-8a3d-042774c72a8b" />
+
 
   
   Figure 3 A link configuration with Viscous-Columb friction forces applied .

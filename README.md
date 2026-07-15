@@ -41,7 +41,8 @@ Model-based control strategy (like Computed Torque Control) resolves this proble
   Figure 3 A link configuration with Viscous-Columb friction forces applied .
   
   ---------------------------------------------------------------
-  <img width="746" height="422" alt="UR3Excitation_step2" src="https://github.com/user-attachments/assets/30a4910a-c255-41be-b362-d4a4c86f52d1" />
+<img width="1920" height="1056" alt="UR3Excitation_step2 (1)" src="https://github.com/user-attachments/assets/f765ae6a-c3c4-4d3f-9b17-2ec901cbe8b5" />
+
   
   Figure 4 A visualzation of how we excite the inertial parameters of the UR3 robot arm.
   

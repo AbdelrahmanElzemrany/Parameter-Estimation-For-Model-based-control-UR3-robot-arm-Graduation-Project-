@@ -33,8 +33,8 @@ Model-based control strategy (like Computed Torque Control) resolves this proble
   Figure 2 The UR3 Simscape model For digital twining .
   
 -----------------------------------------------------------------
-  
-<img width="1907" height="917" alt="Screenshot 2026-07-15 192710" src="https://github.com/user-attachments/assets/98988876-b8d1-45a0-8a3d-042774c72a8b" />
+  <img width="1076" height="561" alt="Screenshot 2026-07-15 193229" src="https://github.com/user-attachments/assets/7491205d-1eb7-4903-ae90-52ac8392b046" />
+
 
 
   
